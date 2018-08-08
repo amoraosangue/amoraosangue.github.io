@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Amor ao Sangue</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Amor ao Sangue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Noticias</title>
+      <link>/tags/noticias/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/noticias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remedios</title>
+      <link>/tags/remedios/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/remedios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tcu</title>
+      <link>/tags/tcu/</link>
+      <pubDate>Sun, 12 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tcu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
